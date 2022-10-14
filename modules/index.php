@@ -133,10 +133,6 @@
     </div>
 </section>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    End About
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Training
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="training-section ptb-120">
@@ -307,106 +303,66 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header white" data-aos="fade-up" data-aos-duration="1200">
-                    <h2 class="section-title">Nuestras <span>características</span></h2>
-                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative
-                        programs in the nation.</p>
+                    <h2 class="section-title">Nuestros <span>Peleadores</span></h2>
+                    <p>
+                        Porque no hay victoria sin pelea, disfruta de los mejores eventos que tenemos para ti.
+                    </p>
                 </div>
             </div>
         </div>
         <div class="row justify-content-center mb-30-none">
-            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-6 mb-30">
+            <div class="col-sm-6 col-xs-6 col-md-2 mb-30">
                 <div class="trainer-item" data-aos="zoom-in" data-aos-duration="1200">
                     <div class="trainer-thumb">
                         <img src="assets/images/trainer/trainer-1.png" alt="trainer">
-                        <div class="trainer-overlay">
-                            <div class="share-area">
-                                <div class="share-icon">
-                                    <i class="fas fa-share-alt"></i>
-                                </div>
-                                <ul class="social-list">
-                                    <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
                     </div>
                     <div class="trainer-content">
-                        <h3 class="title"><a href="master-details.html">Randall Schwartz</a></h3>
-                        <span class="sub-title">Women's Trainner</span>
+                        <h3 class="title"><a href="contacto.php">Juan Pablo Mendoza</a></h3>
+                        <!-- <span class="sub-title">Women's Trainner</span> -->
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-6 mb-30">
+            <div class="col-sm-6 col-xs-6 col-md-2 mb-30">
                 <div class="trainer-item" data-aos="zoom-in" data-aos-duration="1200">
                     <div class="trainer-thumb">
                         <img src="assets/images/trainer/trainer-2.png" alt="trainer">
-                        <div class="trainer-overlay">
-                            <div class="share-area">
-                                <div class="share-icon">
-                                    <i class="fas fa-share-alt"></i>
-                                </div>
-                                <ul class="social-list">
-                                    <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
                     </div>
                     <div class="trainer-content">
-                        <h3 class="title"><a href="master-details.html">David Sherman</a></h3>
-                        <span class="sub-title">Boxing Trainner</span>
+                        <h3 class="title"><a href="contacto.php">Jordi Maya</a></h3>
+                        <!-- <span class="sub-title">Boxing Trainner</span> -->
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-6 mb-30">
+            <div class="col-sm-6 col-xs-6 col-md-2 mb-30">
                 <div class="trainer-item" data-aos="zoom-in" data-aos-duration="1200">
                     <div class="trainer-thumb">
                         <img src="assets/images/trainer/trainer-3.png" alt="trainer">
-                        <div class="trainer-overlay">
-                            <div class="share-area">
-                                <div class="share-icon">
-                                    <i class="fas fa-share-alt"></i>
-                                </div>
-                                <ul class="social-list">
-                                    <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
                     </div>
                     <div class="trainer-content">
-                        <h3 class="title"><a href="master-details.html">Earl Lopez</a></h3>
-                        <span class="sub-title">Karate Trainner</span>
+                        <h3 class="title"><a href="contacto.php">Juan Campos</a></h3>
+                        <!-- <span class="sub-title">Karate Trainner</span> -->
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-xs-6 mb-30">
+            <div class="col-sm-6 col-xs-6 col-md-2 mb-30">
                 <div class="trainer-item" data-aos="zoom-in" data-aos-duration="1200">
                     <div class="trainer-thumb">
                         <img src="assets/images/trainer/trainer-4.png" alt="trainer">
-                        <div class="trainer-overlay">
-                            <div class="share-area">
-                                <div class="share-icon">
-                                    <i class="fas fa-share-alt"></i>
-                                </div>
-                                <ul class="social-list">
-                                    <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
                     </div>
                     <div class="trainer-content">
-                        <h3 class="title"><a href="master-details.html">James Gonzalez</a></h3>
-                        <span class="sub-title">Women's Trainner</span>
+                        <h3 class="title"><a href="contacto.php">Luis "Pantera" Guerrero</a></h3>
+                        <!-- <span class="sub-title">Women's Trainner</span> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-xs-6 col-md-2 mb-30">
+                <div class="trainer-item" data-aos="zoom-in" data-aos-duration="1200">
+                    <div class="trainer-thumb">
+                        <img src="assets/images/trainer/trainer-5.png" alt="trainer">
+                    </div>
+                    <div class="trainer-content">
+                        <h3 class="title"><a href="contacto.php">Alberto García</a></h3>
+                        <!-- <span class="sub-title">Women's Trainner</span> -->
                     </div>
                 </div>
             </div>

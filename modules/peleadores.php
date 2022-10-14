@@ -1,15 +1,16 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Banner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img" data-background="assets/images/bg/bg-12.png">
+<section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img"
+    data-background="assets/images/bg/bg-12.png">
     <div class="section-logo-text">
-        <span class="title">SWORD</span>
+        <span class="title">MFL</span>
     </div>
     <div class="container-fluid">
         <div class="row justify-content-center align-items-end mb-30-none">
             <div class="col-xl-12 col-lg-12 text-center mb-30">
                 <div class="banner-content" data-aos="fade-up" data-aos-duration="1800">
-                    <h1 class="title">MASTERS</h1>
+                    <h1 class="title">Profesionales</h1>
                 </div>
             </div>
         </div>
@@ -18,8 +19,8 @@
 <div class="breadcrumb-area">
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Masters</li>
+            <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Peleadores</li>
         </ol>
     </nav>
 </div>
@@ -34,37 +35,26 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header">
-                    <h2 class="section-title">OUR <span>EXPERT</span> TRAINNER</h2>
-                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                    <h2 class="section-title">Conoce a <span>nuestros peleadores</span> </h2>
+                    <!-- <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p> -->
                 </div>
             </div>
         </div>
         <div class="trainer-filter-wrapper">
-            <div class="button-group filter-btn-group">
+            <!-- <div class="button-group filter-btn-group">
                 <button class="active" data-filter="*">All</button>
                 <button data-filter=".running">Running</button>
                 <button data-filter=".boxing">Shadow Boxing</button>
                 <button data-filter=".trainer">Strength Trainer</button>
                 <button data-filter=".others">Others</button>
-            </div>
+            </div> -->
+
             <div class="grid">
                 <div class="grid-item running trainer">
                     <div class="trainer-item">
                         <div class="trainer-thumb">
                             <img src="assets/images/trainer/trainer-1.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+
                         </div>
                         <div class="trainer-content">
                             <h3 class="title"><a href="master-details.html">Randall Schwartz</a></h3>
@@ -76,19 +66,7 @@
                     <div class="trainer-item">
                         <div class="trainer-thumb">
                             <img src="assets/images/trainer/trainer-2.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+
                         </div>
                         <div class="trainer-content">
                             <h3 class="title"><a href="master-details.html">David Sherman</a></h3>
@@ -100,19 +78,7 @@
                     <div class="trainer-item">
                         <div class="trainer-thumb">
                             <img src="assets/images/trainer/trainer-3.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+
                         </div>
                         <div class="trainer-content">
                             <h3 class="title"><a href="master-details.html">Earl Lopez</a></h3>
@@ -124,19 +90,7 @@
                     <div class="trainer-item">
                         <div class="trainer-thumb">
                             <img src="assets/images/trainer/trainer-4.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+
                         </div>
                         <div class="trainer-content">
                             <h3 class="title"><a href="master-details.html">James Gonzalez</a></h3>
@@ -147,96 +101,11 @@
                 <div class="grid-item trainer">
                     <div class="trainer-item">
                         <div class="trainer-thumb">
-                            <img src="assets/images/trainer/trainer-9.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                            <img src="assets/images/trainer/trainer-5.png" alt="trainer">
                         </div>
                         <div class="trainer-content">
                             <h3 class="title"><a href="master-details.html">Erik Boyes</a></h3>
                             <span class="sub-title">Boxing Trainner</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="grid-item running">
-                    <div class="trainer-item">
-                        <div class="trainer-thumb">
-                            <img src="assets/images/trainer/trainer-10.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="trainer-content">
-                            <h3 class="title"><a href="master-details.html">John Dick</a></h3>
-                            <span class="sub-title">Strength Trainner</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="grid-item others">
-                    <div class="trainer-item">
-                        <div class="trainer-thumb">
-                            <img src="assets/images/trainer/trainer-11.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="trainer-content">
-                            <h3 class="title"><a href="master-details.html">William Cardenas</a></h3>
-                            <span class="sub-title">Sudo Trainner</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="grid-item boxing others">
-                    <div class="trainer-item">
-                        <div class="trainer-thumb">
-                            <img src="assets/images/trainer/trainer-12.png" alt="trainer">
-                            <div class="trainer-overlay">
-                                <div class="share-area">
-                                    <div class="share-icon">
-                                        <i class="fas fa-share-alt"></i>
-                                    </div>
-                                    <ul class="social-list">
-                                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="trainer-content">
-                            <h3 class="title"><a href="master-details.html">Willie Tabor</a></h3>
-                            <span class="sub-title">Karate Trainner</span>
                         </div>
                     </div>
                 </div>
