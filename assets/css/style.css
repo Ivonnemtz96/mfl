@@ -3500,7 +3500,7 @@ section {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #e80000;
+  background-color: #000000;
   z-index: -1;
   animation: fadeInDown 2s cubic-bezier(0.4, 0, 1, 1);
 }
