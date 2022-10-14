@@ -28,7 +28,7 @@ $('.my-paroller').paroller();
 $(function() {
   $('.chart').easyPieChart({
       size: 160,
-      barColor: '#E80000',
+      barColor: '#346f8e',
       scaleColor: false,
       lineWidth: 8,
       trackColor: '#ffffff',
