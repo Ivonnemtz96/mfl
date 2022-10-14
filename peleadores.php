@@ -8,7 +8,7 @@ include('includes/head.php');
 
 <body >
     <?php
-        include('includes/header.php');
+        include('includes/header2.php');
         include('includes/preloader.php');
         include('modules/peleadores.php');
         include('includes/footer.php');
