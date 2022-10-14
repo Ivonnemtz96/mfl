@@ -2,7 +2,7 @@
     Start Banner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="banner-section bg_img" data-background="assets/images/bg/bg-5.png">
-    <div class="banner-element">
+    <div class="banner-element" style="margin-top: 13rem;">
         <img src="assets/images/element/element-7.png" alt="element">
     </div>
     <div class="banner-element-two">
