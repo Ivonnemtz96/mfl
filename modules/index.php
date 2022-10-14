@@ -9,12 +9,6 @@
         <img src="assets/images/element/element-26.png" alt="element">
     </div>
     <div class="banner-thumb-area">
-        <div class="banner-thumb-element-one">
-            <img src="assets/images/element/element-11.png" alt="element">
-        </div>
-        <div class="banner-thumb-element-two">
-            <img src="assets/images/element/element-12.png" alt="element">
-        </div>
         <div class="banner-thumb-element-three">
             <img src="assets/images/element/element-13.png" alt="element">
         </div>
@@ -26,10 +20,11 @@
         <div class="row align-items-end mb-30-none">
             <div class="col-xl-6 col-lg-12 mb-30">
                 <div class="banner-content" data-aos="fade-right" data-aos-duration="1800">
-                    <span class="sub-title">WELCOME TO SWORD</span>
-                    <h1 class="title">EVERY GREAT</h1>
-                    <h3 class="inner-title">JOURNEY STARTS WITH ONE STEP!</h3>
-                    <p>Morbi eleifend tortor vitae sapien laoreet feugiat. Aliquam dictum vulputate sapien eu laoreet. Aliquam purus est, molestie et sagittis sit amet, sagittis in magna. Morbi placerat commodo luctus. Etiam pulvinar dapibus risus, sit amet consectetur metus lobortis vitae.</p>
+                    <span class="sub-title">BIENVENIDOS AL MMA</span>
+                    <h1 class="title">Mexican Fight League</h1>
+                    <h3 class="inner-title">Los mejores profesionales</h3>
+                    <p>Siente la emoción en MFL! <br> No te puedes perder de los mejores combates que traemos para ti.
+                        ¡Vive la historia que quieras contar!</p>
                     <div class="banner-arrow">
                         <img src="assets/images/element/element-10.png" alt="element">
                     </div>
@@ -42,12 +37,13 @@
                             </div>
                             <div class="banner-widget-middle">
                                 <div class="banner-widget-content">
-                                    <p class="text-white">Join over <span>4,000+</span> students</p>
+                                    <p class="text-white">Únete a MFL<span>+200</span> peleadores</p>
                                 </div>
                             </div>
                             <div class="banner-widget-right">
                                 <div class="banner-widget-btn">
-                                    <a href="apply.html" class="btn--base">Apply Now <i class="fas fa-arrow-right ml-2"></i></a>
+                                    <a href="aplicar.php" class="btn--base">Aplicar<i
+                                            class="fas fa-arrow-right ml-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +62,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="about-section pt-120 bg-overlay-black bg_img" data-background="assets/images/bg/bg-1.png">
     <div class="section-logo-text">
-        <span class="title">SWORD</span>
+        <span class="title">MFL</span>
     </div>
     <div class="container">
         <div class="row justify-content-center mb-30-none">
@@ -77,9 +73,9 @@
                         <div class="signature-thumb">
                             <img src="assets/images/signature.png" alt="signature">
                         </div>
-                        <div class="signature-content">
+                        <!-- <div class="signature-content">
                             <span class="title">DIRECTOR / INSTRUCTOR</span>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="about-thumb-video">
                         <div class="video-main">
@@ -90,7 +86,8 @@
                                     <div class="waves wave-3"></div>
                                 </div>
                             </div>
-                            <a class="video-icon" data-rel="lightcase:myCollection" href="https://www.youtube.com/embed/YDErI8Lphho">
+                            <a class="video-icon" data-rel="lightcase:myCollection"
+                                href="https://www.youtube.com/embed/YDErI8Lphho">
                                 <i class="fas fa-play"></i>
                             </a>
                         </div>
@@ -100,17 +97,32 @@
             <div class="col-xl-6 col-lg-12 mb-30">
                 <div class="about-content-area">
                     <div class="section-header white">
-                        <h2 class="section-title">ABOUT <span>BOXING</span> SCHOOL</h2>
-                        <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                        <h2 class="section-title">Sobre <span>Mexican Fight League</span></h2>
+                        <p>Mexican Fight League es una empresa dedicada a la promoción y desarrollo del MMA en Mexico y
+                            Latinoamérica, contamos
+                            con basta experiencia en la producción de eventos en vivo para televisión habiendo trabajado
+                            ya con cadenas nacionales e internacionales como ESPN Knockout, combate SPACE, TDN, IMAGEN
+                            TV. <br><br>
+
+                            Así mismo tenemos el personal, equipo de iluminación, pantallas (PQR) y unidad móvil propias
+                            (TVMAR) para garantizar la misma calidad de producción sin importar la sede del evento. <br>
+
+                            Se tiene programado realizar un evento mensual en diferentes ciudades dentro de la República
+                            mexicana iniciando en Noviembre del 2022, si fuera necesario estamos en posibilidad de hacer
+                            shows con mayor frecuencia. <br><br>
+
+                            MFL es sin duda la liga mejor estructurada en el país y con la plataforma adecuada pronto
+                            seremos la empresa referente en Latinoamérica.</p>
                     </div>
-                    <div class="about-item-area">
+                    <div hidden class="about-item-area">
                         <div class="about-item mb-30">
                             <div class="about-icon">
                                 <img src="assets/images/icon/icon-1.png" alt="icon">
                             </div>
                             <div class="about-content">
                                 <h3 class="title">FREE FITNESS TRAINING</h3>
-                                <p>We teach martial arts because we love it — not because we want to make money on you. Unlike other martial arts schools.</p>
+                                <p>We teach martial arts because we love it — not because we want to make money on you.
+                                    Unlike other martial arts schools.</p>
                             </div>
                         </div>
                         <div class="about-item mb-30">
@@ -119,12 +131,13 @@
                             </div>
                             <div class="about-content">
                                 <h3 class="title">CARDIO AND STRENGTH</h3>
-                                <p>We teach martial arts because we love it — not because we want to make money on you. Unlike other martial arts schools.</p>
+                                <p>We teach martial arts because we love it — not because we want to make money on you.
+                                    Unlike other martial arts schools.</p>
                             </div>
                         </div>
                     </div>
                     <div class="about-btn">
-                        <a href="about.html" class="btn--base">Read More <i class="fas fa-arrow-right ml-2"></i></a>
+                        <a href="nosotros.php" class="btn--base">Ver más<i class="fas fa-arrow-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -139,10 +152,12 @@
     Start Training
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="training-section ptb-120">
-    <div class="training-element-one my-paroller" data-paroller-factor="0.08" data-paroller-type="foreground" data-paroller-direction="horizontal">
+    <div class="training-element-one my-paroller" data-paroller-factor="0.08" data-paroller-type="foreground"
+        data-paroller-direction="horizontal">
         <img src="assets/images/element/element-1.png" alt="element">
     </div>
-    <div class="training-element-two my-paroller" data-paroller-factor="0.08" data-paroller-type="foreground" data-paroller-direction="horizontal">
+    <div class="training-element-two my-paroller" data-paroller-factor="0.08" data-paroller-type="foreground"
+        data-paroller-direction="horizontal">
         <img src="assets/images/element/element-2.png" alt="element">
     </div>
     <div class="container">
@@ -150,8 +165,11 @@
             <div class="col-xl-12">
                 <div class="section-header-wrapper">
                     <div class="section-header">
-                        <h2 class="section-title">OUR <span>BOXING</span> TRAINING</h2>
-                        <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                        <h2 class="section-title">Nuestras disciplinas</h2>
+                        <p>
+                            Las mejores disciplinas en un solo ring, dejando todo en la arena. <br> Porque no hay
+                            victoria sin pelea, demuestra de qué eres capaz.
+                        </p>
                     </div>
                     <div class="slider-nav-area">
                         <div class="slider-prev">
@@ -175,17 +193,11 @@
                                         <img src="assets/images/icon/icon-3.png" alt="icon">
                                     </div>
                                     <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">ENGLISH BOXING</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from one location.</p>
+                                        <h3 class="title"><a href="training-details.html">Kárate</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
                                     </div>
-                                    <div class="training-overlay bg-overlay-base bg_img" data-background="assets/images/training/training-1.png">
-                                        <div class="training-overlay-content">
-                                            <h3 class="title"><a href="training-details.html">ENGLISH BOXING TRAINING</a></h3>
-                                            <div class="training-btn">
-                                                <a href="training-details.html" class="btn--base active">Training Details <i class="fas fa-arrow-right ml-2"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -194,16 +206,9 @@
                                         <img src="assets/images/icon/icon-4.png" alt="icon">
                                     </div>
                                     <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">PERSONAL BOXING</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from one location.</p>
-                                    </div>
-                                    <div class="training-overlay bg-overlay-base bg_img" data-background="assets/images/training/training-1.png">
-                                        <div class="training-overlay-content">
-                                            <h3 class="title"><a href="training-details.html">PERSONAL BOXING TRAINING</a></h3>
-                                            <div class="training-btn">
-                                                <a href="training-details.html" class="btn--base active">Training Details <i class="fas fa-arrow-right ml-2"></i></a>
-                                            </div>
-                                        </div>
+                                        <h3 class="title"><a href="training-details.html">Boxeo</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
                                     </div>
                                 </div>
                             </div>
@@ -213,16 +218,85 @@
                                         <img src="assets/images/icon/icon-5.png" alt="icon">
                                     </div>
                                     <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">KICK BOXING</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from one location.</p>
+                                        <h3 class="title"><a href="training-details.html">Muay thai</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
                                     </div>
-                                    <div class="training-overlay bg-overlay-base bg_img" data-background="assets/images/training/training-1.png">
-                                        <div class="training-overlay-content">
-                                            <h3 class="title"><a href="training-details.html">KICK BOXING TRAINING</a></h3>
-                                            <div class="training-btn">
-                                                <a href="training-details.html" class="btn--base active">Training Details <i class="fas fa-arrow-right ml-2"></i></a>
-                                            </div>
-                                        </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="training-item text-center">
+                                    <div class="training-icon">
+                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                    </div>
+                                    <div class="training-content">
+                                        <h3 class="title"><a href="training-details.html">Judo</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="training-item text-center">
+                                    <div class="training-icon">
+                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                    </div>
+                                    <div class="training-content">
+                                        <h3 class="title"><a href="training-details.html">Lucha libre</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="training-item text-center">
+                                    <div class="training-icon">
+                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                    </div>
+                                    <div class="training-content">
+                                        <h3 class="title"><a href="training-details.html">Kickboxing</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="training-item text-center">
+                                    <div class="training-icon">
+                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                    </div>
+                                    <div class="training-content">
+                                        <h3 class="title"><a href="training-details.html">Lucha grecorromana</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="training-item text-center">
+                                    <div class="training-icon">
+                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                    </div>
+                                    <div class="training-content">
+                                        <h3 class="title"><a href="training-details.html">jiu jitsu</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="training-item text-center">
+                                    <div class="training-icon">
+                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                    </div>
+                                    <div class="training-content">
+                                        <h3 class="title"><a href="training-details.html">Wushu</a></h3>
+                                        <p>Transport or transportation is the movement of humans, animals and goods from
+                                            one location.</p>
                                     </div>
                                 </div>
                             </div>
@@ -245,8 +319,9 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header white" data-aos="fade-up" data-aos-duration="1200">
-                    <h2 class="section-title">OUR <span>EXPERT</span> TRAINNER</h2>
-                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                    <h2 class="section-title">Nuestras <span>características</span></h2>
+                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative
+                        programs in the nation.</p>
                 </div>
             </div>
         </div>
@@ -368,8 +443,9 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header" data-aos="fade-up" data-aos-duration="1200">
-                    <h2 class="section-title">OUR <span>BOXING</span> FEATURES</h2>
-                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                    <h2 class="section-title">Nuestras <span>Características</span> </h2>
+                    <!-- <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative
+                        programs in the nation.</p> -->
                 </div>
             </div>
         </div>
@@ -385,7 +461,7 @@
                         </div>
                     </div>
                     <div class="feature-content">
-                        <h4 class="title">FREE CONSULTATION</h4>
+                        <h4 class="title">Aplicación sin costo</h4>
                         <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
                     </div>
                 </div>
@@ -453,11 +529,14 @@
         <div class="row justify-content-center">
             <div class="col-xl-7 col-lg-8 text-center">
                 <div class="call-to-action-content" data-aos="fade-up" data-aos-duration="1200">
-                    <h2 class="title">JOIN THE CLUB</h2>
-                    <h2 class="sub-title">#BE COME STRONGER</h2>
-                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                    <h2 class="title">Únete a nuestra Liga MFL</h2>
+                    <h2 class="sub-title">#SÉ MÁS FUERTE</h2>
+                    <p>
+                        Mexican Fight League es una empresa dedicada a la promoción y desarrollo del MMA en Mexico y
+                        Latinoamérica,
+                    </p>
                     <div class="call-to-action-btn">
-                        <a href="contact.html" class="btn--base">Join Now <i class="fas fa-arrow-right ml-2"></i></a>
+                        <a href="aplicar.php" class="btn--base">¡Aplica hora!<i class="fas fa-arrow-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
