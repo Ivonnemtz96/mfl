@@ -54,10 +54,6 @@
     </div>
 </section>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    End Banner
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start About
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="about-section pt-120 bg-overlay-black bg_img" data-background="assets/images/bg/bg-1.png">
@@ -103,14 +99,6 @@
                             con basta experiencia en la producción de eventos en vivo para televisión habiendo trabajado
                             ya con cadenas nacionales e internacionales como ESPN Knockout, combate SPACE, TDN, IMAGEN
                             TV. <br><br>
-
-                            Así mismo tenemos el personal, equipo de iluminación, pantallas (PQR) y unidad móvil propias
-                            (TVMAR) para garantizar la misma calidad de producción sin importar la sede del evento. <br>
-
-                            Se tiene programado realizar un evento mensual en diferentes ciudades dentro de la República
-                            mexicana iniciando en Noviembre del 2022, si fuera necesario estamos en posibilidad de hacer
-                            shows con mayor frecuencia. <br><br>
-
                             MFL es sin duda la liga mejor estructurada en el país y con la plataforma adecuada pronto
                             seremos la empresa referente en Latinoamérica.</p>
                     </div>

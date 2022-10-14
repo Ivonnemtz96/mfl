@@ -1,15 +1,16 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Banner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img" data-background="assets/images/bg/bg-12.png">
+<section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img"
+    data-background="assets/images/bg/bg-12.png">
     <div class="section-logo-text">
-        <span class="title">SWORD</span>
+        <span class="title">MFL</span>
     </div>
     <div class="container-fluid">
         <div class="row justify-content-center align-items-end mb-30-none">
             <div class="col-xl-12 col-lg-12 text-center mb-30">
                 <div class="banner-content" data-aos="fade-up" data-aos-duration="1800">
-                    <h1 class="title">ABOUT <span>US</span></h1>
+                    <h1 class="title">Sobre <span>Nosotros</span></h1>
                 </div>
             </div>
         </div>
@@ -18,22 +19,21 @@
 <div class="breadcrumb-area">
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">About Us</li>
+            <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Mexican Fight League </li>
         </ol>
     </nav>
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    End Banner
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start About
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="about-section about-section--style ptb-120">
-    <div class="about-element-one my-paroller" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical">
+    <div class="about-element-one my-paroller" data-paroller-factor="0.2" data-paroller-type="foreground"
+        data-paroller-direction="vertical">
         <img src="assets/images/element/element-1.png" alt="element">
     </div>
-    <div class="about-element-two my-paroller" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical">
+    <div class="about-element-two my-paroller" data-paroller-factor="0.2" data-paroller-type="foreground"
+        data-paroller-direction="vertical">
         <img src="assets/images/element/element-2.png" alt="element">
     </div>
     <div class="container">
@@ -41,41 +41,35 @@
             <div class="col-xl-6 col-lg-6 mb-30">
                 <div class="about-thumb">
                     <img src="assets/images/about-2.png" alt="about">
-                    <div class="about-overlay-content">
+                    <!-- <div class="about-overlay-content">
                         <img src="assets/images/icon/icon-22.png" alt="icon">
                         <h4 class="title">NATIONAL 
                             BOXING
                             AWARD</h4>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 mb-30">
                 <div class="about-content-area">
                     <div class="section-header">
-                        <h2 class="section-title">ABOUT <span>BOXING</span> SCHOOL</h2>
-                        <p>SWORD supports men, women, teens, and kids looking to pursue the incredible benefits of amateur boxing. Whether you’re interested in a challenging new approach to fitness or have Olympic aspirations.</p>
-                        <p>Founded in 2003 by veteran boxing trainer/cutman, Russ Anber, Rival entered the marketplace with a promise to “reinvent the industry” by implementing innovations</p>
-                    </div>
-                    <ul class="about-list">
-                        <li>Production or Trading of Good or Services for Sale</li>
-                        <li>Cost of supplies and equipment</li>
-                        <li>Change in the volume of expected sales</li>
-                        <li>From that initial modest order of $2,000</li>
-                        <li>Everybody is, in one way or another, connected to boxing</li>
-                    </ul>
-                    <div class="about-user-area">
-                        <div class="about-user-wrapper">
-                            <div class="about-user-thumb">
-                                <img src="assets/images/user.png" alt="user">
-                            </div>
-                            <div class="about-user-content">
-                                <h6 class="title">Hoyen Mata</h6>
-                                <span class="sub-title">Co-Founder</span>
-                            </div>
-                        </div>
-                        <div class="about-signature-wrapper">
-                            <img src="assets/images/signature-2.png" alt="signature">
-                        </div>
+                        <h2 class="section-title">Sobre <span>MExican Fight League</span></h2>
+                        <p>Mexican Fight League es una empresa dedicada a la promoción y desarrollo del MMA en Mexico y
+                            Latinoamérica, contamos
+                            con basta experiencia en la producción de eventos en vivo para televisión habiendo trabajado
+                            ya con cadenas nacionales e internacionales como ESPN Knockout, combate SPACE, TDN, IMAGEN
+                            TV.
+                        </p>
+                        <p>
+                            Asimismo tenemos el personal, equipo de iluminación, pantallas (PQR) y unidad móvil propias
+                            (TVMAR) para garantizar la misma calidad de producción sin importar la sede del evento.
+                            <br><br>
+                            Se tiene programado realizar un evento mensual en diferentes ciudades dentro de la República
+                            mexicana iniciando en Noviembre del 2022, si fuera necesario estamos en posibilidad de hacer
+                            shows con mayor frecuencia.
+                            <br><br>
+                            MFL es sin duda la liga mejor estructurada en el país y con la plataforma adecuada pronto
+                            seremos la empresa referente en Latinoamérica.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -134,7 +128,8 @@
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header" data-aos="fade-up" data-aos-duration="1200">
                     <h2 class="section-title">OUR <span>BOXING</span> FEATURES</h2>
-                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative programs in the nation.</p>
+                    <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative
+                        programs in the nation.</p>
                 </div>
             </div>
         </div>
@@ -151,7 +146,8 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="title"><span>01.</span> FREE CONSULTATION</h4>
-                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -164,7 +160,8 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="title"><span>02.</span> EXCELLENT SERVICE</h4>
-                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +174,8 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="title"><span>03.</span> BEST TRAINERS</h4>
-                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -190,7 +188,8 @@
                                 </div>
                                 <div class="feature-content">
                                     <h4 class="title"><span>04.</span> FREE CONSULTATION</h4>
-                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                                    <p>Fight School has specialized in martial arts since 1986 and has one of the most
+                                    </p>
                                 </div>
                             </div>
                         </div>
