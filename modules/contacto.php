@@ -130,8 +130,8 @@
                     <div class="contact-social-area">
                         <span>SÍGUENOS EN NUESTRAS REDES-</span>
                         <ul class="contact-social">
-                            <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100086240923770"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/mexican_fight_league/"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>

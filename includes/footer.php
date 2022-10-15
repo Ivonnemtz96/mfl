@@ -14,8 +14,8 @@
                 <div class="copyright-area">
                     <p>Copyright 2022 Mexican Fight League. Diseñado por <a target="_blank" href="https://bananagroup.mx">Banana Group Marketing</a></p>
                     <ul class="footer-social">
-                        <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100086240923770"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/mexican_fight_league/"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
