@@ -2,7 +2,7 @@
     Start Banner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img"
-    data-background="assets/images/bg/bg-12.png">
+    data-background="assets/images/bg/bg-15.png">
     <div class="section-logo-text">
         <span class="title">MFL</span>
     </div>
@@ -82,8 +82,8 @@
                             <img src="assets/images/icon/icon-23.png" alt="icon">
                         </div>
                         <div class="about-content">
-                            <h4 class="title">FREE FITNESS TRAINING</h4>
-                            <p>We teach martial arts because we want to Unlike other martial arts schools.</p>
+                            <h4 class="title">Entrenamiento constante</h4> <br>
+                            <!-- <p>We teach martial arts because we want to Unlike other martial arts schools.</p> -->
                         </div>
                     </div>
                 </div>
@@ -93,8 +93,8 @@
                             <img src="assets/images/icon/icon-24.png" alt="icon">
                         </div>
                         <div class="about-content">
-                            <h4 class="title">CARDIO AND STRENGTH</h4>
-                            <p>We teach martial arts because we want to Unlike other martial arts schools.</p>
+                            <h4 class="title">Coaching por parte de los mejores entrenadores</h4>
+                            <!-- <p>We teach martial arts because we want to Unlike other martial arts schools.</p> -->
                         </div>
                     </div>
                 </div>
@@ -104,8 +104,8 @@
                             <img src="assets/images/icon/icon-25.png" alt="icon">
                         </div>
                         <div class="about-content">
-                            <h4 class="title">REGIONAL ASSOCIATIONS</h4>
-                            <p>We teach martial arts because we want to Unlike other martial arts schools.</p>
+                            <h4 class="title">Combates regionales y nacionales</h4>
+                            <!-- <p>We teach martial arts because we want to Unlike other martial arts schools.</p> -->
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Feature
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section class="feature-section feature-section-two feature-section--style pt-120 pb-100">
+<section hidden class="feature-section feature-section-two feature-section--style pt-120 pb-100">
     <div class="feature-element">
         <img src="assets/images/element/element-1.png" alt="element">
     </div>
@@ -127,7 +127,7 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header" data-aos="fade-up" data-aos-duration="1200">
-                    <h2 class="section-title">OUR <span>BOXING</span> FEATURES</h2>
+                    <h2 class="section-title">Nuestras <span>características</span></h2>
                     <p>Fight School has specialized in martial arts since 1986 and has one of the most innovative
                         programs in the nation.</p>
                 </div>

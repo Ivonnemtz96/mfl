@@ -13,7 +13,7 @@
             <img src="assets/images/element/element-13.png" alt="element">
         </div>
         <div class="banner-thumb" data-aos="fade-up" data-aos-duration="2500">
-            <img src="assets/images/element/element-8.png" alt="element">
+            <img src="assets/images/element/element-34.png" alt="element">
         </div>
     </div>
     <div class="container-fluid">
@@ -73,7 +73,7 @@
                             <span class="title">DIRECTOR / INSTRUCTOR</span>
                         </div> -->
                     </div>
-                    <div class="about-thumb-video">
+                    <!-- <div class="about-thumb-video">
                         <div class="video-main">
                             <div class="promo-video">
                                 <div class="waves-block">
@@ -87,7 +87,7 @@
                                 <i class="fas fa-play"></i>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-xl-6 col-lg-12 mb-30">
@@ -174,7 +174,7 @@
                             <div class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
-                                        <img src="assets/images/icon/icon-3.png" alt="icon">
+                                        <img src="assets/images/icon/icon-18.png" alt="icon">
                                     </div>
                                     <div class="training-content">
                                         <h3 class="title"><a href="training-details.html">Kárate</a></h3>
@@ -211,7 +211,7 @@
                             <div class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                        <img src="assets/images/icon/icon-67.png" alt="icon">
                                     </div>
                                     <div class="training-content">
                                         <h3 class="title"><a href="training-details.html">Judo</a></h3>
@@ -220,7 +220,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
+                            <div hidden class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
                                         <img src="assets/images/icon/icon-5.png" alt="icon">
@@ -236,7 +236,7 @@
                             <div class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                        <img src="assets/images/icon/icon-68.png" alt="icon">
                                     </div>
                                     <div class="training-content">
                                         <h3 class="title"><a href="training-details.html">Kickboxing</a></h3>
@@ -246,7 +246,7 @@
                                 </div>
                             </div>
 
-                            <div class="swiper-slide">
+                            <div hidden class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
                                         <img src="assets/images/icon/icon-5.png" alt="icon">
@@ -262,7 +262,7 @@
                             <div class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
+                                        <img src="assets/images/icon/icon-69.png" alt="icon">
                                     </div>
                                     <div class="training-content">
                                         <h3 class="title"><a href="training-details.html">jiu jitsu</a></h3>
@@ -272,7 +272,7 @@
                                 </div>
                             </div>
 
-                            <div class="swiper-slide">
+                            <div hidden class="swiper-slide">
                                 <div class="training-item text-center">
                                     <div class="training-icon">
                                         <img src="assets/images/icon/icon-5.png" alt="icon">
@@ -291,9 +291,6 @@
         </div>
     </div>
 </section>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    End Training
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Trainer
@@ -367,14 +364,11 @@
                 </div>
             </div>
         </div>
-        <div class="all-btn text-center mt-60">
+        <!-- <div class="all-btn text-center mt-60">
             <a href="master.html" class="btn--base">View All <i class="fas fa-arrow-right ml-2"></i></a>
-        </div>
+        </div> -->
     </div>
 </section>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    End Trainer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Feature
@@ -398,15 +392,15 @@
                 <div class="feature-item" data-aos="zoom-in" data-aos-duration="1200">
                     <div class="feature-icon-area">
                         <div class="feature-icon">
-                            <img src="assets/images/icon/icon-6.png" alt="icon">
+                            <img src="assets/images/icon/icon-70.png" alt="icon">
                         </div>
                         <div class="feature-number">
                             <span>01</span>
                         </div>
                     </div>
                     <div class="feature-content">
-                        <h4 class="title">Aplicación sin costo</h4>
-                        <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                        <h4 class="title">Combates nacionales y regionales</h4>
+                        <!-- <p>Fight School has specialized in martial arts since 1986 and has one of the most</p> -->
                     </div>
                 </div>
             </div>
@@ -414,15 +408,15 @@
                 <div class="feature-item" data-aos="zoom-in" data-aos-duration="1200">
                     <div class="feature-icon-area">
                         <div class="feature-icon">
-                            <img src="assets/images/icon/icon-7.png" alt="icon">
+                            <img src="assets/images/icon/icon-53.png" alt="icon">
                         </div>
                         <div class="feature-number">
                             <span>02</span>
                         </div>
                     </div>
                     <div class="feature-content">
-                        <h4 class="title">EXCELLENT SERVICE</h4>
-                        <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                        <h4 class="title">Calendarios de entrenamiento</h4>
+                        <!-- <p>Fight School has specialized in martial arts since 1986 and has one of the most</p> -->
                     </div>
                 </div>
             </div>
@@ -437,8 +431,8 @@
                         </div>
                     </div>
                     <div class="feature-content">
-                        <h4 class="title">BEST TRAINERS</h4>
-                        <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                        <h4 class="title">Los mejores entrenadores</h4>
+                        <!-- <p>Fight School has specialized in martial arts since 1986 and has one of the most</p> -->
                     </div>
                 </div>
             </div>
@@ -453,8 +447,8 @@
                         </div>
                     </div>
                     <div class="feature-content">
-                        <h4 class="title">WORK PROGRAMS</h4>
-                        <p>Fight School has specialized in martial arts since 1986 and has one of the most</p>
+                        <h4 class="title">Programas de trabajo</h4>
+                        <!-- <p>Fight School has specialized in martial arts since 1986 and has one of the most</p> -->
                     </div>
                 </div>
             </div>

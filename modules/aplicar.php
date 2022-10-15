@@ -1,7 +1,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Start Banner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img" data-background="assets/images/bg/bg-12.png">
+<section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img" data-background="assets/images/bg/bg-15.png">
     <div class="section-logo-text">
         <span class="title">MFL</span>
     </div>
