@@ -37,13 +37,14 @@
                             </div>
                             <div class="banner-widget-middle">
                                 <div class="banner-widget-content">
-                                    <p class="text-white">Únete a MFL<span>+200</span> peleadores</p>
+                                    <p class="text-white">¡COMPRA TUS BOLETOS AQUÍ!</p>
                                 </div>
                             </div>
                             <div class="banner-widget-right">
                                 <div class="banner-widget-btn">
-                                    <a href="aplicar.php" class="btn--base">Aplicar<i
-                                            class="fas fa-arrow-right ml-2"></i></a>
+                                    <a target="_blank" href="https://arema.mx/" class="btn--base">
+                                        Comprar<i class="fas fa-arrow-right ml-2"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -145,148 +146,36 @@
         <img src="assets/images/element/element-2.png" alt="element">
     </div>
     <div class="container">
+        <h4 class="section-title text-center">Nuestros próximos eventos</h4>
+        <p>
+            Siente la emoción en MFL<br>
+            No te puedes perder del gran combate este próximo 17 de diciembre en Deportivo Plan Sexenal.
+        </p>
         <div class="row">
             <div class="col-xl-12">
                 <div class="section-header-wrapper">
                     <div class="section-header">
-                        <h2 class="section-title">Nuestras disciplinas</h2>
-                        <p>
-                            Las mejores disciplinas en un solo ring, dejando todo en la arena. <br> Porque no hay
-                            victoria sin pelea, demuestra de qué eres capaz.
-                        </p>
+
+
                     </div>
-                    <div class="slider-nav-area">
-                        <div class="slider-prev">
-                            <i class="fas fa-chevron-left"></i>
-                        </div>
-                        <div class="slider-next">
-                            <i class="fas fa-chevron-right"></i>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-xl-12">
-                <div class="training-slider-area">
-                    <div class="training-slider">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-18.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Kárate</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-4.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Boxeo</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Muay thai</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-67.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Judo</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div hidden class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Lucha libre</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-68.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Kickboxing</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div hidden class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Lucha grecorromana</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-69.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">jiu jitsu</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div hidden class="swiper-slide">
-                                <div class="training-item text-center">
-                                    <div class="training-icon">
-                                        <img src="assets/images/icon/icon-5.png" alt="icon">
-                                    </div>
-                                    <div class="training-content">
-                                        <h3 class="title"><a href="training-details.html">Wushu</a></h3>
-                                        <p>Transport or transportation is the movement of humans, animals and goods from
-                                            one location.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        <div class="row justify-content-center  align-items-center">
+            <div class="col-12 col-md-6 mt-4">
+                <img src="assets/images/event/evento.jpg" alt="">
+            </div>
+            <div class="col-12 col-md-6 mt-4">
+                <h4>Recuerda que los boletos ya están a la venta a través de arema.mx <br><br></h4>
+                <b>¡Dale clik a la imagen y consigue tus boletos!</b>
+                <div class="banner-arrow">
+                    <span>¡No te quedes sin el tuyo!</span> <img src="assets/images/element/element-10.png"
+                        alt="element">
                 </div>
+                <a target="_blank" href="https://arema.mx/" style="margin-top: 2rem;">
+                    <img style="width: 90%" src="assets/images/arema.png" alt="">
+                </a>
             </div>
         </div>
     </div>
