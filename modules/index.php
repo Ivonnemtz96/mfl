@@ -147,7 +147,7 @@
     </div>
     <div class="container">
         <h4 class="section-title text-center">Nuestros próximos eventos</h4>
-        <p>
+        <p class="text-center">
             Siente la emoción en MFL<br>
             No te puedes perder del gran combate este próximo 17 de diciembre en Deportivo Plan Sexenal.
         </p>

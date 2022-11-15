@@ -41,12 +41,14 @@
                                         </div>
                                     </a>
                                     <ul class="sub-menu">
-                                        <li class="<? echo $inicio;?>">
-                                            <a href="index.php">Inicio</a>
-                                        </li>
+                                        <li class=""><a href="index.php">Inicio</a></li>
+                                        <li><a href="galeria.php">Eventos</a></li>
+                                        <li><a href="galeria.php">Ranquings</a></li>
+                                        <li><a href="galeria.php">Contenido Destacado</a></li>
+                                        <li><a href="galeria.php">Noticias</a></li>
                                         <li><a href="nosotros.php">Nosotros</a></li>
-                                        <li><a href="galeria.php">Galería</a></li>
-                                        
+                                        <li><a href="galeria.php">Prensa</a></li>
+                                        <li><a href="galeria.php">Tienda</a></li>                                       
                                     </ul>
                                 </li>
                                 <li><a href="contacto.php">Contacto</a></li>
@@ -56,7 +58,7 @@
                                     <ul class="header-links">
                                         <li>
                                             <h5 class="title">Llámanos</h5>
-                                            <span class="sub-title"><a href="tel:+526644375150">+52 664 437 5150</a></span>
+                                            <span class="sub-title"><a href="tel:+521234567890">+52 123 456 7890</a></span>
                                         </li>
                                         <li>
                                             <h5 class="title">Dirección</h5>

@@ -2,7 +2,7 @@
     Start Banner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="banner-section banner-section-two inner-banner-section bg-overlay-red bg_img"
-    data-background="assets/images/bg/bg-1.png">
+    data-background="assets/images/bg/bg-12.png">
     <div class="section-logo-text">
         <span class="title">MFL</span>
     </div>
@@ -74,7 +74,7 @@
                     </div>
                     <div class="contact-content">
                         <h4 class="title">Teléfono</h4>
-                        <p>+52 664 437 5150<br> <a href="tel:+52 664 437 5150">Marcar ahora</a> </p>
+                        <p>+52 123 456 7890<br> <a href="tel:+52 123 456 7890">Marcar ahora</a> </p>
                     </div>
                 </div>
             </div>
@@ -130,8 +130,8 @@
                     <div class="contact-social-area">
                         <span>SÍGUENOS EN NUESTRAS REDES-</span>
                         <ul class="contact-social">
-                            <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100086240923770"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a target="_blank" href="https://www.instagram.com/mexican_fight_league/"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
