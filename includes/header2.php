@@ -17,7 +17,7 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav main-menu">
                                 <li class=""><a href="index.php">Inicio</a></li>
-                                <li><a href="galeria.php">Eventos</a></li>
+                                <li><a href="eventos.php">Eventos</a></li>
                                 <li><a href="galeria.php">Ranquings</a></li>
                                 <li><a href="galeria.php">Contenido Destacado</a></li>
                                 <li><a href="galeria.php">Noticias</a></li>
