@@ -38,7 +38,7 @@
                     <div class="row justify-content-center">
                         <div class="col-xl-10 col-lg-12 text-center">
                             <div class="section-header">
-                                <h2 class="section-title">Para <span>aplicar</span> a la MFL<span> regístrate ahora. </span></h2>
+                                <h2 class="section-title">¿Quiéres formar <span>parte</span> del rooster de peleadores?<span> Llena este formulario </span></h2>
                                 <p>Derrota al enemigo que vive dentro de ti.</p>
                             </div>
                         </div>
@@ -50,6 +50,25 @@
                                 <input type="text" class="form--control" placeholder="Jorge Perez">
                             </div>
                             <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Sexo</label>
+                                <input type="text" class="form--control" placeholder="Masculino">
+                            </div>
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Edad</label>
+                                <input type="text" class="form--control" placeholder="22 años">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Record Amateur</label>
+                                <input type="text" class="form--control" placeholder="10-2-0">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Record Profesional</label>
+                                <input type="text" class="form--control" placeholder="20-5-1">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
                                 <label>Correo</label>
                                 <input type="email" class="form--control" placeholder="example@email.com">
                             </div>
@@ -57,16 +76,46 @@
                                 <label>Teléfono</label>
                                 <input type="text" class="form--control" placeholder="624 123 4567">
                             </div>
-                            <!-- <div class="col-xl-6 col-lg-6 form-group">
-                                <label>Select your Training</label>
-                                <div class="account-widget-select">
-                                    <select class="form--control">
-                                        <option value="1">Kick Boxing</option>
-                                        <option value="2">English Boxing</option>
-                                        <option value="3">Personal Boxing</option>
-                                    </select>
-                                </div>
-                            </div> -->
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Academia</label>
+                                <input type="text" class="form--control" placeholder="Mexican Fight League">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Residencia Actual</label>
+                                <input type="text" class="form--control" placeholder="Estado de México">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Altura</label>
+                                <input type="text" class="form--control" placeholder="1.80 cm">
+                            </div>
+                            
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Divisón</label>
+                                <input type="text" class="form--control" placeholder="Peso Gallo">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Tapology</label>
+                                <input type="text" class="form--control" placeholder="...">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Nacionalidad</label>
+                                <input type="text" class="form--control" placeholder="Mexicana">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Manager</label>
+                                <input type="text" class="form--control" placeholder="Jorge Perez">
+                            </div>
+
+                            <div class="col-xl-6 col-lg-6 form-group">
+                                <label>Foto de frente, fondo blanco, manos a los costados</label>
+                                <input type="file" class="form--control" >
+                            </div>
+
                             <div class="col-xl-12 form-group">
                                 <label>Escríbenos tus datos generales</label>
                                 <textarea class="form--control" placeholder="Edad, peso, estado y ciudad."></textarea>
