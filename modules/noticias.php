@@ -10,7 +10,7 @@
         <div class="row justify-content-center align-items-end mb-30-none">
             <div class="col-xl-12 col-lg-12 text-center mb-30">
                 <div class="banner-content" data-aos="fade-up" data-aos-duration="1800">
-                    <h1 class="title">Nuestro <span>Contenido</span></h1>
+                    <h1 class="title">Nuestras <span>Noticias</span></h1>
                 </div>
             </div>
         </div>
@@ -20,7 +20,7 @@
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Contenido Destacado</li>
+            <li class="breadcrumb-item active" aria-current="page">Noticias</li>
         </ol>
     </nav>
 </div>
@@ -35,7 +35,7 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 text-center">
                 <div class="section-header" data-aos="fade-up" data-aos-duration="1200">
-                    <h2 class="section-title">Contenido <span>Destacado</span> </h2>
+                    <h2 class="section-title">Entérate de nuestras <span>Noticias</span> </h2>
                 </div>
             </div>
         </div>
