@@ -22,6 +22,7 @@
                                 <li><a href="contenido.php">Contenido Destacado</a></li>
                                 <li><a href="noticias.php">Noticias</a></li>
                                 <li><a href="nosotros.php">Nosotros</a></li>
+                                <li><a href="contacto.php">Contacto</a></li>
                                 <li><a href="prensa.php">Prensa</a></li>
                                 <li><a href="tienda.php">Tienda</a></li>
                             </ul>
