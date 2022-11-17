@@ -80,7 +80,9 @@
                     <div class="section-header">
                         <h2 class="section-title"><span>Misión</span></h2>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos necessitatibus provident distinctio? Error provident voluptatum facilis unde ad, molestias explicabo tempore, aut expedita nemo debitis, veniam repellat accusantium! Adipisci, ad.
+                            Nuestra misión es promover las artes marciales mixtas en méxico.
+                            Para así Crecer el deporte en méxico y américa latina, Ofreciendo las mejores condiciones
+                            para los peleadores en el mercado.
                         </p>
                     </div>
                 </div>
@@ -90,7 +92,9 @@
                     <div class="section-header">
                         <h2 class="section-title">Visión</h2>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto repellat, optio aspernatur placeat quasi reiciendis facilis vitae? Est cumque fuga perferendis, obcaecati beatae maiores dicta, voluptas, doloribus reiciendis veritatis nobis.
+                            Es convertirnos en una de las más grandes ligas de México y América Latina para así poder
+                            Crecer a nivel internacional Sin ofrecer las mejores oportunidades para los atletas de
+                            américa latina.
                         </p>
                     </div>
                 </div>
@@ -151,7 +155,8 @@
                 <div class="section-header" data-aos="fade-up" data-aos-duration="1200">
                     <h2 class="section-title">Nuestras <span>Reglas</span> </h2>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat delectus laudantium, commodi labore voluptatibus praesentium!
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat delectus laudantium, commodi
+                        labore voluptatibus praesentium!
                     </p>
                 </div>
             </div>
@@ -170,7 +175,8 @@
                                 <div class="feature-content">
                                     <h4 class="title"><span>01.</span> Regla 1</h4>
                                     <p>
-                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum vel reiciendis quas recusandae natus quibusdam maxime porro neque placeat nam?
+                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum vel
+                                        reiciendis quas recusandae natus quibusdam maxime porro neque placeat nam?
                                     </p>
                                 </div>
                             </div>
@@ -185,7 +191,8 @@
                                 <div class="feature-content">
                                     <h4 class="title"><span>02.</span> Regla 2</h4>
                                     <p>
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit architecto ad assumenda ex perspiciatis quam!
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit architecto ad
+                                        assumenda ex perspiciatis quam!
                                     </p>
                                 </div>
                             </div>
@@ -200,7 +207,8 @@
                                 <div class="feature-content">
                                     <h4 class="title"><span>03.</span> Regla 03</h4>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem voluptatum quo aperiam, ducimus laboriosam nostrum.
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem voluptatum quo
+                                        aperiam, ducimus laboriosam nostrum.
                                     </p>
                                 </div>
                             </div>
@@ -215,7 +223,8 @@
                                 <div class="feature-content">
                                     <h4 class="title"><span>04.</span> Regla 04</h4>
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique voluptas non totam. Repellat, necessitatibus quia?
+                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique voluptas non
+                                        totam. Repellat, necessitatibus quia?
                                     </p>
                                 </div>
                             </div>
