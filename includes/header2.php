@@ -18,12 +18,12 @@
                             <ul class="navbar-nav main-menu">
                                 <li class=""><a href="index.php">Inicio</a></li>
                                 <li><a href="eventos.php">Eventos</a></li>
-                                <li><a href="galeria.php">Ranquings</a></li>
-                                <li><a href="galeria.php">Contenido Destacado</a></li>
-                                <li><a href="galeria.php">Noticias</a></li>
+                                <li><a href="ranquings.php">Ranquings</a></li>
+                                <li><a href="contenido.php">Contenido Destacado</a></li>
+                                <li><a href="noticias.php">Noticias</a></li>
                                 <li><a href="nosotros.php">Nosotros</a></li>
-                                <li><a href="galeria.php">Prensa</a></li>
-                                <li><a href="galeria.php">Tienda</a></li>
+                                <li><a href="prensa.php">Prensa</a></li>
+                                <li><a href="tienda.php">Tienda</a></li>
                             </ul>
                             <div class="header-right">
                                 <div class="header-action-area">
