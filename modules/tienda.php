@@ -48,6 +48,7 @@
                     <a target="_blank" href="https://arema.mx/">
                         <img src="assets/images/arema.png" alt="about">
                     </a>
+                    <h2 style="margin-top: 3rem;"><a style="text-decoration: underline;" target="_blank" href="https://arema.mx/">arema.mx</a></h2>
                     <!-- <div class="about-overlay-content">
                         <img src="assets/images/icon/icon-22.png" alt="icon">
                         <h4 class="title">NATIONAL 
