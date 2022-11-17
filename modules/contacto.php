@@ -110,8 +110,10 @@
                         <p>
 
                             Si tienes alguna duda o requiere más información, pueden escribirnos por medio de este
-                            formulario de contacto.
-                        </p>
+                            formulario de contacto.<br><br>
+                        </p> 
+                        <span>Si quieres ser parte de nuestro Rooster de peleadores, da click al siguiente link: </span>
+                       <h3> <a style="color: blue; text-decoration: underline;" href="aplicar.php">¡Aplicar!</a></h3>
                     </div>
                     <div class="banner-widget">
                         <!-- <div class="banner-widget-wrapper">
